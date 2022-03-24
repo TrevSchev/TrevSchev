@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrevSchev
-- 👀 I’m interested in Movies, video games, and digital design/painting
+- 👀 I’m interested in movies, video games, and digital design/painting
 - 🌱 I’m currently learning how to code with html and css
-- 💞️ I’m looking to collaborate on making someth
+- 💞️ I’m looking to collaborate on making something awesome
 - 📫 How to reach me schevingtrevor@gmail.com
 
 <!---
